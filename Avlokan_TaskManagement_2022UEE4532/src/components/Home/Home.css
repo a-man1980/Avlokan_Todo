@@ -1,0 +1,19 @@
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 100vh;
+
+}
+
+.container div{
+    height: 500px;
+    width: 400px;
+    align-items: center;
+    justify-content: center;
+
+}
+
+div{
+    border: 0.5px solid black;
+}
